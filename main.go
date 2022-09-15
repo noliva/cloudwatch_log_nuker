@@ -1,0 +1,1 @@
+package cloudwatch_log_nuker
